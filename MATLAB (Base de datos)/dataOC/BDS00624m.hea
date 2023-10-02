@@ -1,0 +1,18 @@
+BDS00624m 8 100 6000
+BDS00624m.mat 32+192 1674625504.49(-1567448631)/N 0 0 2085785420 4016 0 Fx
+BDS00624m.mat 32+192 2377504865.2(-1643775958)/N 0 0 154884932 17256 0 Fy
+BDS00624m.mat 32+192 1313823329.64(-291191557)/N 0 0 318960831 24024 0 Fz
+BDS00624m.mat 32+192 907498337.438(-1502099871)/Nm 0 0 -760704583 30149 0 Mx
+BDS00624m.mat 32+192 451255218.131(1397868412)/Nm 0 0 22687984 23262 0 My
+BDS00624m.mat 32+192 10953754894.2(-1242473472)/Nm 0 0 246130872 6169 0 Mz
+BDS00624m.mat 32+192 2219206171.25(-1515817685)/cm 0 0 -11590914 12350 0 COPx
+BDS00624m.mat 32+192 4523413232.48(-1499812296)/cm 0 0 -766182518 -13310 0 COPy
+#Subject:52
+#Age:70.0
+#Gender:F
+#Height:145.5
+#Weight:51.1
+#Illness:Osteoporosis, Osteopenia, Hypothyroidism, Stroke, Hypertension, Hypercholesterolemia, Bronchitis
+#Medication:Angiotensin II receptor antagonist, Synthetic thyroid hormone, HMG coenzyme A reductase inhibitor, Long-acting beta agonists + Corticosteroid, Bisphosphonate 
+#Creator: wfdb2mat
+#Source: record hbedb/BDS00624

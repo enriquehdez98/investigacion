@@ -1,0 +1,18 @@
+BDS01803m 8 100 6000
+BDS01803m.mat 32+192 704827753.063(1774280878)/N 0 0 1483097501 2250 0 Fx
+BDS01803m.mat 32+192 1262986450.21(581605260)/N 0 0 941003211 -23677 0 Fy
+BDS01803m.mat 32+192 812153174.201(1992421134)/N 0 0 -556165336 -28360 0 Fz
+BDS01803m.mat 32+192 323836467.747(545412827)/Nm 0 0 2064448091 8696 0 Mx
+BDS01803m.mat 32+192 200817428.729(-1949592731)/Nm 0 0 -81654676 20919 0 My
+BDS01803m.mat 32+192 7086188663.99(1210349369)/Nm 0 0 -443588324 25526 0 Mz
+BDS01803m.mat 32+192 1417529609.6(1949624864)/cm 0 0 80691455 -4882 0 COPx
+BDS01803m.mat 32+192 2288659615.37(544044143)/cm 0 0 2065725860 910 0 COPy
+#Subject:151
+#Age:73.33333333333333
+#Gender:F
+#Height:156.0
+#Weight:70.95
+#Illness:Hypothyroidism, Hypercholesterolemia, Hypertriglyceridemia, Osteopenia, Fatty liver
+#Medication:Synthetic thyroid hormone, HMG coenzyme A reductase inhibitor, Selective serotonin reuptake inhibitor, Proton pump inhibitor 
+#Creator: wfdb2mat
+#Source: record hbedb/BDS01803
