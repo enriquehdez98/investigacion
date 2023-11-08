@@ -1,0 +1,10 @@
+// Árbol Binario
+digraph {
+	"-"
+	"-" -> "CoPy "
+	"CoPy "
+	"-" -> ".mean()"
+	".mean()"
+	".mean()" -> CoPy
+	CoPy
+}

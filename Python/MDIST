@@ -1,0 +1,14 @@
+// Árbol Binario
+digraph {
+	".sum()"
+	".sum()" -> "**"
+	"**"
+	"**" -> "((CoPy-CoPy.mean())**2+(CoPx-CoPx.mean())**2)"
+	"((CoPy-CoPy.mean())**2+(CoPx-CoPx.mean())**2)"
+	"**" -> 0.5
+	0.5
+	".sum()" -> "/"
+	"/"
+	"/" -> N
+	N
+}

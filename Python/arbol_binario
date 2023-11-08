@@ -1,0 +1,16 @@
+// Árbol Binario
+digraph {
+	"/"
+	"/" -> ".sum()"
+	".sum()"
+	".sum()" -> "-"
+	"-"
+	"-" -> CoPy
+	CoPy
+	"-" -> ".mean()"
+	".mean()"
+	".mean()" -> CoPy
+	CoPy
+	"/" -> N
+	N
+}

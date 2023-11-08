@@ -1,7 +1,7 @@
 %% PROYECTO SEGUNDO PARCIAL
 %%% Calculo de indices del CoP %%%
      %Enrique Hernandez Laredo - ehernandezl190@alumno.uaemex.mx
-     %Lilyam Lizette Olmos García Rojas - lolmosg195@alumno.uaemex.mx    
+   
 warning('off')
 close all;
 clear all;

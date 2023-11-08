@@ -1,0 +1,6 @@
+// Árbol Binario
+digraph {
+	4
+	4 -> 5
+	5
+}
